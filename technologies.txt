@@ -1,0 +1,4 @@
+Next JS
+Tailwind CSS
+Hero Icons
+Sanity CMS
